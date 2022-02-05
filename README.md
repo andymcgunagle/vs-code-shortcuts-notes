@@ -67,3 +67,5 @@ The main area to edit your files. You can open as many editors as you like side 
 
 - (Custom) **Emmet: Wrap with abbreviation:** shift + ⌘ + A
 - Preview markdown file: shift + ⌘ + V
+- Open current file in new VS Code window: ⌘ + K, O
+- (Custom) Toggle status bar visibility: option + ⌘ + B 
